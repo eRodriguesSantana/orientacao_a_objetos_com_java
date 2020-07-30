@@ -20,7 +20,3 @@ Crie uma classe Principal com o método main() que faz o seguinte:
 <li>Imprime o total do CarrinhoDeCompra</li>
 <li>Imprime a quantidade utilizada de cada ingrediente</li>
 </ul>
-
-<br/>
-
-Implemente no Eclipse uma classe chamada Principal em que se criam 3 instâncias da classe Paciente com valores diferentes e se imprime no console o resultado dos dois métodos criados.

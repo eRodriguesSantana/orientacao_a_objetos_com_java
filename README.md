@@ -17,7 +17,7 @@ Nesta semana foi aprofundado o contato com classes e métodos, bem como com mode
 <br/>
 <h3>Semana 3</h3>
 <strong>Testes de Unidade, Diagramas UML, Colaboração e Dependência</strong><br/>
-Nesta semana foi aprofundado o contato com Testes de Unidade e Diagramas de Classe da UML, bem como com os conceitos de dependência e contrato de classe. Ao final desta semana, o resultado alcançado foi:<br/>: 
+Nesta semana foi aprofundado o contato com Testes de Unidade e Diagramas de Classe da UML, bem como com os conceitos de dependência e contrato de classe. Ao final desta semana, o resultado alcançado foi:<br/>
 1) testar com JUnit o comportamento de classes em Java;<br/>
 2) projetar e representar classes com diagrama de classes da UML.
 <br/>

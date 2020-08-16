@@ -7,7 +7,7 @@ https://www.coursera.org/account/accomplishments/records/9SUEL75FWS3G
 ## Curso Ministrado em seis semanas, abaixo segue o cronograma de cada semana
 <h3>Semana 1</h3>
 <strong>Classes na Teoria e em Java</strong><br/>
-Neste módulo foi estudado a capacidade de identificar, definir e diferenciar os conceitos básicos de orientação a objetos, tanto em teoria quanto em Java:<br/> classes, objetos, atributos de classes, construtores de classes, responsabilidades, colaborações e cartões CRC.
+Nesta semana foi estudado a capacidade de identificar, definir e diferenciar os conceitos básicos de orientação a objetos, tanto em teoria quanto em Java:<br/> classes, objetos, atributos de classes, construtores de classes, responsabilidades, colaborações e cartões CRC.
 <br/>
 <h3>Semana 2</h3>
 <strong>Classes com Java e Modelagem CRC</strong><br/>
